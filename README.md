@@ -22,9 +22,9 @@ Follow the instructions below to create a product and subdevice.
 - https://www.envisioniot.com/docs/device-connection/en/latest/howto/device/manage/creating_product.html
 - https://www.envisioniot.com/docs/device-connection/en/latest/howto/device/manage/creating_device.html
 
-### Associate the subdevice to the edge gateway
-Follow the instructions below to create an edge gateway product and device:
-- https://www.envisioniot.com/docs/device-connection/en/latest/howto/device/manage/managing_devices.html#adding-sub-devices-to-a-gateway-device
+### Register an EnOS application, save the app access key and secret to .env file
+Follow the instructions below to register an EnOS application:
+- https://www.envisioniot.com/docs/app-development/en/latest/app_management/managing_apps.html#registering-an-application
 
 ## How to run
 To run the demo, run the following command in a new terminal.
